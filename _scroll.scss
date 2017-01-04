@@ -1,27 +1,12 @@
 // ==========================================================================
-// SCROLL MODULE
+// Scroll Utility
 // ==========================================================================
-//
-//
 
-
-
-// Prevent a container from being scrollable
-//
-// eg used on body when mobile
+// Prevent a container from being scrollable :eg used on body when mobile
 .u-scroll--none {
     overflow: hidden;
     position: fixed;
 }
-
-// .u-scroll--none--below-medium {
-//     overflow: hidden;
-//     position: fixed;
-//     @include respond-to("medium") {
-//         overflow: auto;
-//         position: static;
-//     }
-// }
 
 .u-scroll--auto {
     overflow: auto;
