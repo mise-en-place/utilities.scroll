@@ -3,11 +3,11 @@
 // ==========================================================================
 
 // Prevent a container from being scrollable :eg used on body when mobile
-.u-scroll--none {
+.u-scroll-none {
     overflow: hidden;
     position: fixed;
 }
 
-.u-scroll--auto {
+.u-scroll-auto {
     overflow: auto;
 }
