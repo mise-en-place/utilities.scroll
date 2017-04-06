@@ -1,15 +1,9 @@
 {
   "name": "mep-utilities.scroll",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Scroll Utility",
   "main": "stylesheets/_utility-scroll.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "utility-scroll",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
