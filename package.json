@@ -1,5 +1,5 @@
 {
-  "name": "mep-utilities.scroll",
+  "name": "@mise-en-place/utilities.scroll",
   "version": "2.0.0",
   "description": "Scroll Utility",
   "main": "stylesheets/_utility-scroll.scss",
