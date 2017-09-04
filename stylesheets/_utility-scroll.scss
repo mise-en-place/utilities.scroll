@@ -7,6 +7,10 @@
     overflow: hidden;
     position: fixed;
 }
+body.u-scroll-none {
+    // fix for safari mac
+    width: 100%;
+}
 
 .u-scroll-auto {
     overflow: auto;
